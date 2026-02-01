@@ -3,11 +3,14 @@ Requirements
 You must have:
 - Node.js (v18 or higher recommended)
 - npm (comes with Node)
+
 Check versions with:
 - node -v
 - npm -v
 
+
 Backend Setup (Node + Express)
+
 Install dependencies with:
 - cd backend
 - npm install express cors uuid
@@ -15,7 +18,9 @@ Install dependencies with:
 To run the backend: 
 - node server.js
 
+
 Frontend Setup (React + TypeScript + Vite)
+
 Install dependencies with:
 - cd frontend
 - npm create vite@latest
