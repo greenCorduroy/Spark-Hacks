@@ -18,6 +18,7 @@ To run the backend:
 Frontend Setup (React + TypeScript + Vite)
 Install dependencies with:
   cd frontend
+  npm create vite@latest
   npm install
 
 To run the frontend: 
