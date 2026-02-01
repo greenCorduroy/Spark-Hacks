@@ -1,5 +1,6 @@
 # Spark-Hacks
 Requirements
+
 You must have:
 - Node.js (v18 or higher recommended)
 - npm (comes with Node)
